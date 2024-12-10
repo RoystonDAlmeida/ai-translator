@@ -1,0 +1,8 @@
+# Import Streamlit for UI
+streamlit
+
+# Import transformers for pretrained model
+transformers
+
+# 'Sacremoses' for tokenization of input text
+sacremoses
